@@ -1,1 +1,1 @@
-hello </br> test
+hello | test
